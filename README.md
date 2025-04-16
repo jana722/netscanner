@@ -3,4 +3,4 @@ To use this file you want install using normal installation like copy the link a
               ** python3 networkscanner.py
               ** then it will ask network interface and ip range you want to give depent one your network ip range
 
-              
+              https://github.com/jana722/netscanner.git
